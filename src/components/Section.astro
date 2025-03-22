@@ -1,8 +1,8 @@
 ---
-    const {tittle} = Astro.props;
+    const {title} = Astro.props;
 ---
 <section>
-{tittle && <h2>{tittle}</h2>}
+{title && <h2>{title}</h2>}
     <slot />
 </section>
 
@@ -18,4 +18,4 @@
         line-height: 1.5;
         font-size: 1.5rem;
     }
-    </style>`;
+    </style>
