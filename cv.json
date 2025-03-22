@@ -6,7 +6,7 @@
       "email": "pedro.rebm2001@gmail.com",
       "phone": "+34 680661275",
       "url": "https://",
-      "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+      "summary": "Soy un desarrolador Full Stack con 3 años experiencia en la industria de la programacion",
       "location": {
         "address": "",
         "postalCode": "28350",
@@ -17,18 +17,18 @@
       "profiles": [
         {
           "network": "LinkedIn",
-          "username": "midudev",
-          "url": "https://linkedin.com/in/midudev"
+          "username": "PedroRebollo",
+          "url": "https://www.linkedin.com/in/pedro-rebollo-6a9734325/"
         },
         {
           "network": "X",
-          "username": "midudev",
+          "username": "PedroRebollo",
           "url": "https://x.com/midudev"
         },
         {
           "network": "GitHub",
-          "username": "midudev",
-          "url": "https://github.com/midudev"
+          "username": "PedroRebollo",
+          "url": "https://github.com/PedroReb"
         }
       ]
     },
