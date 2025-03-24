@@ -1,8 +1,74 @@
 ---
 import Section from "../Section.astro"
+import HTML from "@/components/icons/html.astro"
+import CSS from "@/components/icons/css.astro"
+import JavaScript from "@/components/icons/javascrip.astro"
+import TypeScript from "@/components/icons/type.astro"
+import React from "@/components/icons/react.astro"
+import Node from "@/components/icons/node.astro"
+import MySQL from "@/components/icons/sql.astro"
+import Git from "@/components/icons/git.astro"
+import GitHub from "@/components/icons/GitHub.astro"
+import Tailwind from "@/components/icons/tailwind.astro"
+import Next from "@/components/icons/next.astro"
+import { skills } from "@cv"
+import Swift from "@/components/icons/swift.astro"
+import SwiftUI from "@/components/icons/swiftui.astro"
+import Kotlin from "@/components/icons/kotlin.astro"
+import Flutter from "@/components/icons/flutter.astro"
+
+const SKILLS_ICONS: Record<string, any> = {
+  HTML,
+  CSS,
+  JavaScript,
+  TypeScript,
+  React,
+  Node,
+  MySQL,
+  Git,
+  GitHub,
+  Next,
+  Tailwind,
+  Swift,
+  SwiftUI,
+  Kotlin,
+  Flutter,
+}
 ---
 
-<Section title="Skills">
+<Section title="Habilidades">
+  <ul>
+    {
+      skills.map(({ name }) => {
+        const iconName = name === "Next.js" ? "Next" : name
+        const Icon = SKILLS_ICONS[iconName]
 
-
+        return (
+          <li>
+            {Icon && <Icon />} <span>{name}</span>
+          </li>
+        )
+      })
+    }
+  </ul>
 </Section>
+
+<style>
+  ul {
+    display: inline-flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  li {
+    align-items: center;
+    background: #eee;
+    border-radius: 6px;
+    color: black;
+    display: flex;
+    font-size: 0.8rem;
+    font-weight: 500;
+    gap: 4px;
+    padding: 0.2rem 0.6rem;
+  }
+</style>
