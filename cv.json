@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Pedro Rebollo Mejia",
-      "label": "Full Stack Developer con más de 3 años de experiencia",
-      "image": "/me.webp",
+      "label": "Desarrolador de Software",
+      "image": "fotocv.jpg",
       "email": "pedro.rebm2001@gmail.com",
       "phone": "+34 680661275",
-      "url": "https://",
-      "summary": "Soy un desarrolador Full Stack con 3 años experiencia en la industria de la programacion",
+      "url": "",
+      "summary":  "Soy un desarrollador Front-End apasionado con más de un año de experiencia en la industria del desarrollo de software. Me especializo en crear interfaces de usuario modernas, eficientes y responsivas utilizando tecnologías como React, Next.js y Astro. Además, tengo experiencia en migración de proyectos, diseño de sistemas y enseñanza de informática. Mi objetivo es seguir creciendo profesionalmente mientras aporto soluciones innovadoras y de alta calidad. ",
       "location": {
         "address": "",
         "postalCode": "28350",
@@ -180,6 +180,15 @@
         ],
         "url": "",
         "github": "https://github.com/PedroReb/minimalist-portafolio"
+      },
+      {
+        "name":"Pagina para boda",
+        "isActive": true,
+        "description": "Pagina web para una boda",
+        "highlights": [
+          "desarrollado con vite, react, tailwind y strapi"
+        ],
+        "url": "https://borjayelena.vercel.app/"
       }
       
       
