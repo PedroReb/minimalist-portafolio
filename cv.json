@@ -189,8 +189,18 @@
           "desarrollado con vite, react, tailwind y strapi"
         ],
         "url": "https://borjayelena.vercel.app/"
+      },
+      {
+        "name":"Buscador Spotify",
+        "isActive": true,
+        "description": "Buscador de canciones de Spotify",
+        "highlights": [
+          "desarrollado con react, js, css, postman "
+        ],
+        "url": "https://spotifycopia.vercel.app/",
+        "github": "https://github.com/PedroReb/spotifycopia"
       }
-      
+    
       
    
     ]
