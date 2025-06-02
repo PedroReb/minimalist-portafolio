@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Pedro Rebollo Mejia",
-      "label": "Desarrolador de Software",
+      "label": "Cibersecurity Analyst",
       "image": "fotocv.jpg",
       "email": "pedro.rebm2001@gmail.com",
       "phone": "+34 680661275",
       "url": "",
-      "summary":  "Soy un desarrollador Front-End apasionado con más de un año de experiencia en la industria del desarrollo de software. Me especializo en crear interfaces de usuario modernas, eficientes y responsivas utilizando tecnologías como React, Next.js y Astro. Además, tengo experiencia en migración de proyectos, diseño de sistemas y enseñanza de informática. Mi objetivo es seguir creciendo profesionalmente mientras aporto soluciones innovadoras y de alta calidad. ",
+     "summary": "Analista de Ciberseguridad con experiencia en la protección de sistemas, redes y datos frente a amenazas cibernéticas. Especializado en la implementación de medidas de seguridad, análisis de vulnerabilidades y respuesta a incidentes. Apasionado por la investigación de nuevas tecnologías y metodologías para garantizar la seguridad de la información en entornos empresariales. Comprometido con la mejora continua y la colaboración en equipos multidisciplinarios para mitigar riesgos y fortalecer la infraestructura de TI.",
       "location": {
         "address": "",
         "postalCode": "28350",
@@ -65,7 +65,15 @@
     
     ],
   
-  
+  "Certifications": [
+      {
+        "name": "Junior Cibersecurity Analyst",
+        "date": "29/05/2025",
+        "issuer": "Cisco",
+        "url": "https://www.credly.com/badges/ab429072-d59d-4e9a-bf9c-aeadee1a8def/public_url"
+      }
+   
+    ],
 
 
     "skills": [
@@ -145,6 +153,28 @@
         "keywords": [
           "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
         ]
+      },
+      {
+        "name": "Linux",
+        "level": "Avanzado",
+        "keywords": [
+          "Sistemas Operativos", "Administración de Sistemas", "Servidor", "Seguridad"
+        ]
+      },
+      {
+        "name": "Strapi",
+        "level": "Intermedio",
+        "keywords": [
+          "CMS", "Backend", "API", "Headless CMS"
+        ]
+      },
+      {
+        "name": "Vite",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Build Tool", "JavaScript"
+        ]
+
       }
     ],
     "languages": [

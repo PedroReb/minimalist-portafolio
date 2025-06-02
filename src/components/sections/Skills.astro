@@ -16,8 +16,10 @@ import Swift from "@/components/icons/swift.astro"
 import SwiftUI from "@/components/icons/swiftui.astro"
 import Kotlin from "@/components/icons/kotlin.astro"
 import Flutter from "@/components/icons/flutter.astro"
+import Linux from "@/components/icons/linux.astro"
 
 const SKILLS_ICONS: Record<string, any> = {
+  
   HTML,
   CSS,
   JavaScript,
@@ -33,6 +35,10 @@ const SKILLS_ICONS: Record<string, any> = {
   SwiftUI,
   Kotlin,
   Flutter,
+  Linux,
+  
+  
+  
 }
 ---
 
@@ -44,7 +50,7 @@ const SKILLS_ICONS: Record<string, any> = {
         const Icon = SKILLS_ICONS[iconName]
 
         return (
-          <li>
+        <li style="display: flex; align-items: center; gap: 8px;">
             {Icon && <Icon />} <span>{name}</span>
           </li>
         )
@@ -70,5 +76,9 @@ const SKILLS_ICONS: Record<string, any> = {
     font-weight: 500;
     gap: 4px;
     padding: 0.2rem 0.6rem;
+  }
+  li svg {
+    width: 16px;
+    height: 16px;
   }
 </style>
