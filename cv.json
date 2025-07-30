@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Pedro Rebollo Mejia",
-      "label": "Cibersecurity Analyst",
+      "label": "Backend Developer",
       "image": "fotocv.jpg",
       "email": "pedro.rebm2001@gmail.com",
       "phone": "+34 680661275",
       "url": "",
-     "summary": "Analista de Ciberseguridad con experiencia en la protección de sistemas, redes y datos frente a amenazas cibernéticas. Especializado en la implementación de medidas de seguridad, análisis de vulnerabilidades y respuesta a incidentes. Apasionado por la investigación de nuevas tecnologías y metodologías para garantizar la seguridad de la información en entornos empresariales. Comprometido con la mejora continua y la colaboración en equipos multidisciplinarios para mitigar riesgos y fortalecer la infraestructura de TI.",
+    "summary": "Apasionado Backend Developer con experiencia en el desarrollo de aplicaciones web y APIs robustas, buscando mi primera oportunidad profesional en el ecosistema Java. Poseo un sólido conocimiento en Java, Spring Boot, y bases de datos relacionales como MySQL, complementado con habilidades en control de versiones con Git y despliegue en entornos Linux. He trabajado en proyectos que abarcan desde la migración de tecnologías hasta la creación de soluciones personalizadas, demostrando adaptabilidad y compromiso con la calidad del código. Mi enfoque está en la optimización del rendimiento, la escalabilidad y la seguridad de las aplicaciones. Estoy motivado por aprender continuamente y contribuir al éxito de equipos dinámicos y proyectos desafiantes.",
       "location": {
         "address": "",
         "postalCode": "28350",
@@ -173,6 +173,14 @@
         "level": "Intermedio",
         "keywords": [
           "Desarrollo Web", "Frontend", "Build Tool", "JavaScript"
+        ]
+
+      },
+      {
+        "name": "AWS",
+        "level": "Intermedio",
+        "keywords": [
+          "Servicios en la Nube", "Infraestructura", "Despliegue", "Escalabilidad"
         ]
 
       }
