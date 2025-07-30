@@ -78,6 +78,13 @@
 
     "skills": [
       {
+        "name": "Java",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Backend", "Java Ecosystem", "Spring Boot", "APIs RESTful"
+        ]
+      },
+      {
         "name": "HTML",
         "level": "Master",
         "keywords": [
