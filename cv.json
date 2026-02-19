@@ -1,252 +1,231 @@
 {
-    "basics": {
-      "name": "Pedro Rebollo Mejia",
-      "label": "Backend Developer",
-      "image": "fotocv.jpg",
-      "email": "pedro.rebm2001@gmail.com",
-      "phone": "+34 680661275",
-      "url": "",
-    "summary": "Apasionado Backend Developer con experiencia en el desarrollo de aplicaciones web y APIs robustas, buscando mi primera oportunidad profesional en el ecosistema Java. Poseo un sólido conocimiento en Java, Spring Boot, y bases de datos relacionales como MySQL, complementado con habilidades en control de versiones con Git y despliegue en entornos Linux. He trabajado en proyectos que abarcan desde la migración de tecnologías hasta la creación de soluciones personalizadas, demostrando adaptabilidad y compromiso con la calidad del código. Mi enfoque está en la optimización del rendimiento, la escalabilidad y la seguridad de las aplicaciones. Estoy motivado por aprender continuamente y contribuir al éxito de equipos dinámicos y proyectos desafiantes.",
-      "location": {
-        "address": "",
-        "postalCode": "28350",
-        "city": "Ciempozuelos",
-        "countryCode": "ES",
-        "region": "España"
+  "basics": {
+    "name": "Pedro Rebollo Mejia",
+    "label": "Backend Developer",
+    "image": "fotocv.jpg",
+    "email": "pedro.rebm2001@gmail.com",
+    "phone": "+34 680661275",
+    "url": "",
+    "summary": "Desarrollador Backend Junior especializado en el ecosistema Java y Spring Boot. Enfocado en la creación de APIs RESTful escalables, seguras y eficientes. Cuento con experiencia sólida en integración con bases de datos relacionales (MySQL/PostgreSQL), implementación de seguridad con Spring Security y prácticas de Testing (JUnit, Mockito). Apasionado por la arquitectura de microservicios, el control de versiones con Git y el despliegue mediante Docker. Busco mi primera oportunidad profesional para aportar soluciones técnicas de alta calidad y continuar creciendo en entornos de desarrollo ágiles.",
+    "location": {
+      "address": "",
+      "postalCode": "28350",
+      "city": "Ciempozuelos",
+      "countryCode": "ES",
+      "region": "Madrid, España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "PedroRebollo",
+        "url": "https://www.linkedin.com/in/pedro-rebollo-6a9734325/"
       },
-      "profiles": [
-        {
-          "network": "LinkedIn",
-          "username": "PedroRebollo",
-          "url": "https://www.linkedin.com/in/pedro-rebollo-6a9734325/"
-        },
-       
-        {
-          "network": "GitHub",
-          "username": "PedroRebollo",
-          "url": "https://github.com/PedroReb"
-        }
+      {
+        "network": "GitHub",
+        "username": "PedroRebollo",
+        "url": "https://github.com/PedroReb"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Vicente Lopez",
+      "position": "Auxiliar Administrativo y Gestión",
+      "startDate": "2021-01-08",
+      "endDate": "2021-07-22",
+      "summary": "Gestión administrativa integral, facturación y atención al cliente. Desarrollé habilidades de organización y gestión de prioridades en un entorno profesional.",
+      "highlights": [
+        "Optimización de procesos de facturación"
       ]
     },
-    "work": [
-      {
-        "name": "Vicente Lopez",
-        "position": "Auxiliar administrativo",
-        "startDate": "2021-01-8",
-        "endDate": "2021-07-22",
-        "summary": "Adminstre la empresa Vicente Lopez, gestione facturas, albarenes, contratos y nominas, tambien recogia llamadas y rellenaba documentos necesarios para la empresa.",
-        "highlights": [
-          "Gestion de facturas"
-        ]
-      },
-      {
-        "name": "Fundacion Juanjo Torrejon",
-        "position": "Front End Developer",
-        "url": "",
-        "startDate": "2024-03-18",
-        "endDate": "2024-06-20",
-        "summary": "Desarrollo de la web de la Fundacion Juanjo Torrejon con React y Next.js migrandola de Angular.",
-        "highlights": [
-          "Migration Angular to React"
-        ]
-      },
-      {
-        "name": "BCM Gestion Arte",
-        "position": "Profesor de informatica",
-
-        "url": "",
-        "startDate": "2024-11-28",
-        "endDate": null,
-        "summary": "Profesor de informatica basica en BCM Gestion Arte a alumnos de jovenes y adultos.",
-        "highlights": [
-          "Profesor de informatica"
-        ]
-      }
-    
-    ],
-  
-  "Certifications": [
-      {
-        "name": "Junior Cibersecurity Analyst",
-        "date": "29/05/2025",
-        "issuer": "Cisco",
-        "url": "https://www.credly.com/badges/ab429072-d59d-4e9a-bf9c-aeadee1a8def/public_url"
-      }
-   
-    ],
-
-
-    "skills": [
-      {
-        "name": "Java",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Backend", "Java Ecosystem", "Spring Boot", "APIs RESTful"
-        ]
-      },
-      {
-        "name": "HTML",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
-        ]
-      },
-      {
-        "name": "CSS",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "JavaScript",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-        ]
-      },
-      {
-        "name": "Tailwind",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "TypeScript",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-        ]
-      },
-      {
-        "name": "Node",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-        ]
-      },
-      {
-        "name": "MySQL",
-        "level": "Avanzado",
-        "keywords": [
-          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-        ]
-      },
-      {
-        "name": "Git",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente"
-        ]
-      },
-      {
-        "name": "GitHub",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-        ]
-      },
-      {
-        "name": "Next.js",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-        ]
-      },
-      {
-        "name": "React",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-        ]
-      },
-      {
-        "name": "Linux",
-        "level": "Avanzado",
-        "keywords": [
-          "Sistemas Operativos", "Administración de Sistemas", "Servidor", "Seguridad"
-        ]
-      },
-      {
-        "name": "Strapi",
-        "level": "Intermedio",
-        "keywords": [
-          "CMS", "Backend", "API", "Headless CMS"
-        ]
-      },
-      {
-        "name": "Vite",
-        "level": "Intermedio",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Build Tool", "JavaScript"
-        ]
-
-      },
-      {
-        "name": "AWS",
-        "level": "Intermedio",
-        "keywords": [
-          "Servicios en la Nube", "Infraestructura", "Despliegue", "Escalabilidad"
-        ]
-
-      }
-    ],
-    "languages": [
-      {
-        "language": "Spanish",
-        "fluency": "Native speaker"
-      },
-      {
-        "language": "English",
-        "fluency": "Advanced"
-      }
-    ],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
+    {
+      "name": "Fundación Juanjo Torrejón",
+      "position": "Junior Full Stack Developer (Prácticas)",
+      "url": "",
+      "startDate": "2024-03-18",
+      "endDate": "2024-06-20",
+      "summary": "Migración y modernización de la plataforma web corporativa, pasando de una arquitectura legacy en Angular a una solución moderna con React y Next.js.",
+      "highlights": [
+        "Migración técnica de Angular a React/Next.js",
+        "Optimización de componentes frontend para rendimiento"
       ]
-    }],
-    "references": [{
+    },
+    {
+      "name": "BCM Gestión Arte",
+      "position": "Instructor de Informática",
+      "url": "",
+      "startDate": "2024-11-28",
+      "endDate": null,
+      "summary": "Capacitación tecnológica para jóvenes y adultos, cubriendo fundamentos de computación y herramientas digitales.",
+      "highlights": [
+        "Diseño de planes formativos adaptados al nivel del alumno"
+      ]
+    }
+  ],
+  "Certifications": [
+    {
+      "name": "Junior Cibersecurity Analyst",
+      "date": "29/05/2025",
+      "issuer": "Cisco",
+      "url": "https://www.credly.com/badges/ab429072-d59d-4e9a-bf9c-aeadee1a8def/public_url"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend",
+        "OOP",
+        "JVM",
+        "Java 17/21"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Avanzado",
+      "keywords": [
+        "REST APIs",
+        "Spring Data JPA",
+        "Spring Security",
+        "Spring MVC"
+      ]
+    },
+    {
+      "name": "MySQL / PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "SQL",
+        "Relational Databases",
+        "Query Optimization",
+        "Hibernate"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "Intermedio",
+      "keywords": [
+        "JUnit",
+        "Mockito",
+        "Integration Testing",
+        "TDD"
+      ]
+    },
+    {
+      "name": "Git / GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Version Control",
+        "Gitflow",
+        "Pull Requests",
+        "Code Review"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermedio",
+      "keywords": [
+        "Containerization",
+        "Docker Compose",
+        "Deployment"
+      ]
+    },
+    {
+      "name": "JavaScript / TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "DevOps & Cloud",
+      "level": "Intermedio",
+      "keywords": [
+        "AWS (EC2, S3)",
+        "CI/CD",
+        "GitHub Actions",
+        "Linux CLI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "B2 - Avanzado"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Tecnología",
+      "keywords": [
+        "Open Source",
+        "Ciberseguridad",
+        "Cloud Computing"
+      ]
+    }
+  ],
+  "references": [
+    {
       "name": "Jane Doe",
       "reference": "Reference…"
-    }],
-    "projects": [
-     
-      {
-        "name": "Portafolio-minimalista",
-        "isActive": true,
-        "description": "Portfólio minimalista para desarrolladores",
-        "highlights": [
-          "desarrollado con astro"
-          
-        ],
-        "url": "",
-        "github": "https://github.com/PedroReb/minimalist-portafolio"
-      },
-      {
-        "name":"Pagina para boda",
-        "isActive": true,
-        "description": "Pagina web para una boda",
-        "highlights": [
-          "desarrollado con vite, react, tailwind y strapi"
-        ],
-        "url": "https://www.borjayelena.com/"
-      },
-      {
-        "name":"Buscador Spotify",
-        "isActive": true,
-        "description": "Buscador de canciones de Spotify",
-        "highlights": [
-          "desarrollado con react, js, css, postman "
-        ],
-        "url": "https://spotifycopia.vercel.app/",
-        "github": "https://github.com/PedroReb/spotifycopia"
-      }
-    
-      
-   
-    ]
-  }
+    }
+  ],
+  "projects": [
+    {
+      "name": "SellerHub",
+      "isActive": true,
+      "description": "E-commerce robusto enfocado en la gestión de inventario y ventas con arquitectura backend moderna.",
+      "highlights": [
+        "Java 17, Spring Boot, Spring Security (JWT)",
+        "Microservicios con Spring Cloud",
+        "Persistencia con MySQL y Spring Data JPA",
+        "Testing unitario e integración con JUnit/Mockito"
+      ],
+      "url": "https://sellerhub.vercel.app/",
+      "github": "https://github.com/PedroReb/SellerHub.git"
+    },
+    {
+      "name": "Spotify Explorer",
+      "isActive": true,
+      "description": "Aplicación para el consumo y gestión de datos musicales conectando con la API oficial de Spotify.",
+      "highlights": [
+        "React, JavaScript, CSS3",
+        "Consumo de APIs RESTful con Axios/Fetch",
+        "Pruebas de endpoints con Postman",
+        "Gestión de estado global"
+      ],
+      "url": "https://spotifycopia.vercel.app/",
+      "github": "https://github.com/PedroReb/spotifycopia"
+    },
+    {
+      "name": "Boda Web App",
+      "isActive": true,
+      "description": "Plataforma interactiva para la gestión de invitados y eventos nupciales.",
+      "highlights": [
+        "Vite, React, Tailwind CSS",
+        "Backend Headless con Strapi CMS",
+        "Despliegue automatizado"
+      ],
+      "url": "https://www.borjayelena.com/"
+    },
+    {
+      "name": "Portfolio Minimalista",
+      "isActive": true,
+      "description": "Sitio web profesional optimizado para SEO y rendimiento.",
+      "highlights": [
+        "Astro, Tailwind CSS",
+        "Carga de datos dinámica vía JSON",
+        "Diseño Responsive & Accesibilidad"
+      ],
+      "url": "",
+      "github": "https://github.com/PedroReb/minimalist-portafolio"
+    }
+  ]
+}
