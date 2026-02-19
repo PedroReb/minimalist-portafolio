@@ -55,10 +55,32 @@
       "position": "Instructor de Informática",
       "url": "",
       "startDate": "2024-11-28",
+      "endDate": "2025-01-28",
+      "summary": "Capacitación tecnológica para jóvenes y adultos, cubriendo fundamentos de computación y herramientas digitales.",
+      "highlights": [
+        "Diseño de planes formativos adaptados al nivel del alumno"
+      ]
+    },
+    {
+      "name": "Sima Deporte y Ocio",
+      "position": "Instructor de Informática e Ingles",
+      "url": "",
+      "startDate": "2025-01-28",
       "endDate": null,
       "summary": "Capacitación tecnológica para jóvenes y adultos, cubriendo fundamentos de computación y herramientas digitales.",
       "highlights": [
         "Diseño de planes formativos adaptados al nivel del alumno"
+      ]
+    },
+    {
+      "name": "Sima Deporte y Ocio",
+      "position": "Coordinador de Actividades",
+      "url": "",
+      "startDate": "2025-01-28",
+      "endDate": null,
+      "summary": "Coordinación de actividades deportivas y de ocio para jóvenes y adultos.",
+      "highlights": [
+        "Coordinación de actividades deportivas y de ocio para jóvenes y adultos"
       ]
     }
   ],
